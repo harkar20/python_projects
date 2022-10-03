@@ -73,3 +73,7 @@
 
 - #### Object detection :
 	-find animal in the forest
+	
+- #### maths :
+	-arthemetic progression
+	-quadratic formula
